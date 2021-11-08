@@ -1,7 +1,7 @@
 # News_World_Laravel_javascipt
 # Laravel
 # javascipt
-This is News website developed using laravel and javascipt.
+This is a News website which is developed using laravel and javascipt.
 ## Run composer after pulling it.
 
 #Sample shots
